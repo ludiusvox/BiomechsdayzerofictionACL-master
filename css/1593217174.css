@@ -18,7 +18,7 @@ body {
   
     
 }
-col {
+.container .row {
     min-width:auto;   
 }
 #predator{
