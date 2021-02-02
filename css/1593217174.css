@@ -18,6 +18,9 @@ body {
   
     
 }
+.col{
+ min-width:auto;   
+}
 #predator{
     width 20%;
     float:right;
