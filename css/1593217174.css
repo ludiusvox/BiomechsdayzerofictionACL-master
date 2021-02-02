@@ -18,8 +18,8 @@ body {
   
     
 }
-.col{
- min-width:auto;   
+col {
+    min-width:auto;   
 }
 #predator{
     width 20%;
