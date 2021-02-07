@@ -13,11 +13,11 @@ body {
    
     float: right;
     font-style: italic;
-iframe:focus {
+.iframe:focus {
   outline: none;
 }
 
-iframe[seamless] {
+.iframe[seamless] {
   display: block;
 }    
   
@@ -87,3 +87,8 @@ P:first-of-type::first-letter {
 .subhead {
     initial-letter: 2;
   }
+#h1{
+font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color:#333
+}
