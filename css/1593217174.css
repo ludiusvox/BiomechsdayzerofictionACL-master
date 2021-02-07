@@ -13,7 +13,9 @@ body {
    
     float: right;
     font-style: italic;
-    
+.fb-post{
+    data-show-text: true;
+    }
     
   
     
